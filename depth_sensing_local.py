@@ -19,10 +19,8 @@
 ########################################################################
 
 import pyzed.sl as sl
-import math
 import numpy as np
 import sys
-import socket
 import time
 
 def main():
